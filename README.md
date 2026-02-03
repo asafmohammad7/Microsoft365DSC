@@ -1,2 +1,1 @@
-git branch backup-before-reset
-git reset --hard HEAD~2
+git reset --hard 9a8b7c6
